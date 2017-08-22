@@ -73,7 +73,7 @@ $ mkdir spec/services
 $ touch spec/services/sunlight_service_test.rb
 ```
 
-In `test/services/sunlight_service_test.rb`, add the following:
+In `test/services/sunlight_service_spec.rb`, add the following:
 
 ```rb
 # test/services/sunlight_service_spec.rb
